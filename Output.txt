@@ -1,0 +1,67 @@
+﻿WorkerServiceDemo.Worker: Information: Worker instantiated at: 01/25/2025 19:11:03 +05:30
+WorkerServiceDemo.Worker1: Information: Worker1 instanmtiated at : 01/25/2025 19:11:03 +05:30
+WorkerServiceDemo.Worker: Information: Worker started at: 01/25/2025 19:11:03 +05:30
+WorkerServiceDemo.Worker: Information: Worker running at: 01/25/2025 19:11:03 +05:30
+
+WorkerServiceDemo.Worker: Information: File found: PF_AnnualSlip-july.pdf
+WorkerServiceDemo.Worker: Information: File found: YourForm16_2022.pdf
+
+WorkerServiceDemo.Worker1: Information: Worker1 started at: 01/25/2025 19:11:03 +05:30
+WorkerServiceDemo.Worker1: Information: Worker running at: 01/25/2025 19:11:03 +05:30
+WorkerServiceDemo.Worker1: Information: No files found in the directory.
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+
+WorkerServiceDemo.Worker1: Information: Worker running at: 01/25/2025 19:12:03 +05:30
+WorkerServiceDemo.Worker: Information: Worker running at: 01/25/2025 19:12:03 +05:30
+WorkerServiceDemo.Worker1: Information: No files found in the directory.
+
+WorkerServiceDemo.Worker: Information: File found: PF_AnnualSlip-july.pdf
+WorkerServiceDemo.Worker: Information: File found: YourForm16_2022.pdf
+
+WorkerServiceDemo.Worker1: Information: Worker running at: 01/25/2025 19:13:03 +05:30
+WorkerServiceDemo.Worker1: Information: No files found in the directory.
+WorkerServiceDemo.Worker: Information: Worker running at: 01/25/2025 19:13:03 +05:30
+
+WorkerServiceDemo.Worker: Information: File found: PF_AnnualSlip-july.pdf
+WorkerServiceDemo.Worker: Information: File found: YourForm16_2022.pdf
+
+WorkerServiceDemo.Worker1: Information: Worker running at: 01/25/2025 19:14:03 +05:30
+WorkerServiceDemo.Worker1: Information: No files found in the directory.
+WorkerServiceDemo.Worker: Information: Worker running at: 01/25/2025 19:14:03 +05:30
+
+WorkerServiceDemo.Worker: Information: File found: PF_AnnualSlip-july.pdf
+WorkerServiceDemo.Worker: Information: File found: YourForm16_2022.pdf
+
+WorkerServiceDemo.Worker1: Information: Worker running at: 01/25/2025 19:15:03 +05:30
+WorkerServiceDemo.Worker1: Information: No files found in the directory.
+WorkerServiceDemo.Worker: Information: Worker running at: 01/25/2025 19:15:03 +05:30
+
+WorkerServiceDemo.Worker: Information: File found: PF_AnnualSlip-july.pdf
+WorkerServiceDemo.Worker: Information: File found: YourForm16_2022.pdf
+
+WorkerServiceDemo.Worker1: Information: Worker running at: 01/25/2025 19:16:03 +05:30
+WorkerServiceDemo.Worker1: Information: No files found in the directory.
+WorkerServiceDemo.Worker: Information: Worker running at: 01/25/2025 19:16:03 +05:30
+
+WorkerServiceDemo.Worker: Information: File found: PF_AnnualSlip-july.pdf
+WorkerServiceDemo.Worker: Information: File found: YourForm16_2022.pdf
+
+WorkerServiceDemo.Worker1: Information: Worker running at: 01/25/2025 19:17:03 +05:30
+WorkerServiceDemo.Worker1: Information: No files found in the directory.
+WorkerServiceDemo.Worker: Information: Worker running at: 01/25/2025 19:17:03 +05:30
+
+WorkerServiceDemo.Worker: Information: File found: PF_AnnualSlip-july.pdf
+WorkerServiceDemo.Worker: Information: File found: YourForm16_2022.pdf
+
+WorkerServiceDemo.Worker1: Information: Worker running at: 01/25/2025 19:18:03 +05:30
+WorkerServiceDemo.Worker1: Information: No files found in the directory.
+WorkerServiceDemo.Worker: Information: Worker running at: 01/25/2025 19:18:03 +05:30
+
+WorkerServiceDemo.Worker: Information: File found: PF_AnnualSlip-july.pdf
+WorkerServiceDemo.Worker: Information: File found: YourForm16_2022.pdf
+
+Microsoft.Hosting.Lifetime: Information: Application is shutting down...
+WorkerServiceDemo.Worker1: Information: Worker1 is stopping at: 01/25/2025 19:18:53 +05:30
+WorkerServiceDemo.Worker: Information: Worker is stopping at: 01/25/2025 19:18:53 +05:30
+The program '[11084] WorkerServiceDemo.exe' has exited with code 0 (0x0).
